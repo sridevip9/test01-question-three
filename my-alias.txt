@@ -1,0 +1,1 @@
+alias=my-alias'mkdir -P ~/cupcakes/are-not && cd $_ && touch better-than-donuts.txt && echo -e "SPRINKLES!\n$PWD" >> $_
